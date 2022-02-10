@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @saharicodes. 
-- 🌱 I’m currently learning Time Series and Natural Language Processing.
+- 🌱 I’m currently learning Time Series Forcasting and Natural Language Processing.
 - 👯 I’m looking to collaborate on ML projects.
 - 😄 Happy coding!
 
