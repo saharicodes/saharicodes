@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I'm @saharicodes. 
+🌱 I’m currently learning Time Series and Natural Language Processing.
+👯 I’m looking to collaborate on ML projects.
+😄 Happy coding!
+
 
 <!--
 **saharicodes/saharicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
