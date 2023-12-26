@@ -4,7 +4,7 @@
 
 - 💻 I'm a Machine Learning Engineer @Bluwave-ai
 - 🤔 I’m currently reading [Machine Learning System Design Interview](https://www.amazon.ca/Machine-Learning-System-Design-Interview/dp/1736049127). Check it out if interested.
-- 🌱 I am interested in Gen AI and LLMs.
+- 🌱 I am interested in Deep RL, Generative models.
 - 👯 I’m looking to collaborate on ML projects.
 - 😄 Happy coding!
 - 📫 How to reach me: sahar.sedaghati@gmail.com
